@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# [start-readme]
+# [start readme]
 #
 # Installs/updates all dependencies necessary for the docs environment. Equivalent of `npm install`.
 #
